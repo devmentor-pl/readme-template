@@ -130,3 +130,4 @@ Write sth nice ;) Find me on...
 &nbsp;
 
 ## 👏 Thanks / Special thanks / Credits
+Thanks to my [Mentor - devmentor.pl](https://devmentor.pl/) - for providing me with this task and for code review.
