@@ -36,31 +36,7 @@ większy fragment kodu
 
 &nbsp;
 
-## 🔥 Chcesz utworzyć repozytorium z własnym projektem na podstawie wcześniej sforkowanego repo (np. prywatnego repo z zadaniem)?
 
-Oto prosty sposób!
-
-### 1. Utwórz nowe repozytorium na GitHubie.
-Będzie to repozytorium dla Twojego projektu: [github.com/new](https://github.com/new).
-### 2. Stwórz jego lokalną kopię.
-```
-git clone https://github.com/<username>/<forked-repo>.git
-```
-### 3. Oznacz oryginalne repozytorium jako źródłowe.
-```
-cd <forked-repo>
-git remote add upstream https://github.com/<username>/<original-repo>.git
-```
-### 4. "Ściągnij" wszystkie pliki i historię zmian z oryginalnego (sforkowanego) repozytorim.
-```
-git pull upstream master
-```
-### 5. Pushuj zawartość oryginalnego (sforkowanego) repozytorium do Twojego nowego repo na GitHubie.
-```
-git push origin master
-```
-
-&nbsp;
 
 ## *`Koniec sekcji notatek. Poniżej znajdziesz szablon właściwego README.`*
 ___
@@ -68,8 +44,7 @@ ___
 
 
 
-
-<img alt='screen of your app' src="https://via.placeholder.com/1000x300" />
+![screen of your app](https://via.placeholder.com/1000x300)
 
 
 # Project Name
@@ -87,7 +62,9 @@ See the live version of [Project Name](https://devmentor.pl).
 &nbsp;
  
 ## 💡 Technologies
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 
 &nbsp;
