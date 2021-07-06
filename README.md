@@ -1,3 +1,9 @@
+
+### 🔥 Chcesz stworzyć własne repozytorium z projektem na podstawie repozytorium sforkowanego (np. oryginalnego repozytorium z zadaniem)? Zobacz, [jak to zrobić](https://github.com/devmentor-pl/from-fork-to-own-repo)!
+
+
+&nbsp;
+
 ___
 # SEKCJA NOTATEK - usuń po napisaniu README :)
 
