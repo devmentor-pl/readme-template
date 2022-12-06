@@ -52,7 +52,7 @@ ___
 
 
 
-![screen of your app](https://via.placeholder.com/1000x300)
+![screen or GIF of your app](https://via.placeholder.com/1000x300)
 
 
 # Project Name
@@ -74,6 +74,12 @@ See the live version of [Project Name](https://devmentor.pl).
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+
+&nbsp;
+ 
+## 🔗 See also
+
+Are you interested in **techonologyName** and **technologyName**? See my other project [Interesting Project Name](https://devmentor.pl/podcast).
 
 &nbsp;
  
@@ -142,4 +148,4 @@ Write sth nice ;) Find me on...
 &nbsp;
 
 ## 👏 Thanks / Special thanks / Credits
-Thanks to my [Mentor - devmentor.pl](https://devmentor.pl/) - for providing me with this task and for code review.
+Thanks to my [Mentor - devmentor.pl](https://devmentor.pl/) – for providing me with this task and for code review.
